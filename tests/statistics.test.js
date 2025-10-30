@@ -1,4 +1,4 @@
-const statistics = require("../statistics");
+const statistics = require("../src/statistics");
 
 describe("Statistics", () => {
   describe("average", () => {
